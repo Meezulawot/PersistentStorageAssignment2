@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PersistentStorageAssignment2</string>
+    <string name="login">LogIn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="message">Message</string>
+    <string name="writeToFile">Write to File</string>
+    <string name="readFile">Read File</string>
+    <string name="logout">Logout</string>
+</resources>
